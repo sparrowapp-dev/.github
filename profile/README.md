@@ -1,4 +1,4 @@
-## Sparrow REST API Management Tool
+## Sparrow REST API Tool
 
 ![SparrowApp Logo](https://github.com/sparrowapp-dev/sparrow-app/blob/development/src/packages/%40deprecate/assets/logoSparrow.svg)![SparrowApp Logo2](https://github.com/sparrowapp-dev/sparrow-app/blob/development/src/packages/%40deprecate/assets/logotype.svg)
 
