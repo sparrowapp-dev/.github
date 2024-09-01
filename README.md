@@ -28,59 +28,21 @@ We specialize in delivering scalable solutions that modernize your operations an
 
 Explore more of our projects and contributions on our [Techdome Website](https://techdome-io) or [Techdome GitHub](https://github.com/techdome-io) page.
 
-## 🎯 Getting Started
-
-Ready to manage your APIs with Sparrow? Follow these steps to get started:
-
-### Prerequisites
-
-Ensure you have the following installed:
-
-- **Node.js** (v14.x or higher)
-- **npm** or **yarn** package manager
-
-### Installation
-
-1. **Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/sparrowapp-dev/sparrowapp.git
-   cd sparrowapp
-   ```
-
-2. **Install Dependencies:**
-
-   ```bash
-   npm install
-   ```
-
-3. **Start the Development Server:**
-
-   ```bash
-   npm start
-   ```
-
-   Sparrow will be running at `http://localhost:3000`.
-
-### Running Tests
-
-Run tests to ensure everything is functioning as expected:
-
-```bash
-npm test
-```
-
 ## 💻 Contributing
 
 We welcome contributions from the community! If you have ideas for new features, improvements, or bug fixes, we'd love to hear from you.
 
-1. **Fork the Project**
-2. **Create Your Feature Branch** (`git checkout -b feature/AmazingFeature`)
-3. **Commit Your Changes** (`git commit -m 'Add AmazingFeature'`)
-4. **Push to the Branch** (`git push origin feature/AmazingFeature`)
-5. **Open a Pull Request**
+1. **Fork the repository to your GitHub account**
+2. **Setup Project Locally**
+3. **Create a new branch from the corresponding feature branch**
+4. **Commit Your Changes & Push your branch to GITHUB**
+5. **Create a Pull Request**
+6. **Add a reviewer to the PR**
+7. **Link Pull Request to appropriate Issue**
+8. **Delete branch from forked repo**
+9. **Fetch and merge with upstream/main**
 
-For more details, read our [Contributing Guide](https://github.com/sparrowapp-dev/sparrowapp/blob/main/CONTRIBUTING.md).
+For more details, read our [Contributing Guide](https://github.com/sparrowapp-dev/sparrow-app/blob/1e312a627c15d36754b5510d904cddccd6ba1df0/docs/CONTRIBUTING.md).
 
 ## 🎉 Join the Community
 
