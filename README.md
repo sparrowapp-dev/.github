@@ -1,8 +1,8 @@
 ## Sparrow REST API Management Tool
 
-![SparrowApp Logo](https://github.com/sparrowapp-dev/sparrow-app/blob/development/src/packages/%40deprecate/assets/logoSparrow.svg)
+![SparrowApp Logo](https://github.com/sparrowapp-dev/sparrow-app/blob/development/src/packages/%40deprecate/assets/logoSparrow.svg)![SparrowApp Logo2](https://github.com/sparrowapp-dev/sparrow-app/blob/development/src/packages/%40deprecate/assets/logotype.svg)
 
-**Sparrow** is your go-to, lightweight, open-source REST API management tool designed to simplify the process of building, managing abd testing APIs. Whether you're part of a large enterprise team or newbie developer, Sparrow provides the tools you need to ensure your APIs are running smoothly and efficiently.
+**Sparrow** is your go-to, lightweight, open-source REST API management solution designed to simplify the process of building, managing abd testing APIs. Whether you're part of a large enterprise team or newbie developer, Sparrow provides the tools you need to ensure your APIs are running smoothly and efficiently.
 
 ## 🌟 Why Sparrow?
 
@@ -10,13 +10,13 @@ In the complex world of APIs, simplicity is key. Sparrow is built to offer a cle
 
 - **⚡ Fast & Lightweight**: Manage your APIs without the overhead.
 - **💡 Intuitive Interface**: Easy to navigate and use, even for first-time users.
-- **🔍 Real-Time Monitoring**: Keep an eye on your API performance with real-time metrics and logs.
+- **🔍 Unique Features**: Keep an eyes on the unique features customized to solve your issues.
 - **🛠️ Powerful Tools**: Test, debug, and manage your APIs all in one place.
 - **🛡️ Secure & Reliable**: Built with security in mind to ensure your APIs are safe and secure.
 
 ## 🔥 Sparrow Website
 
-See Sparrow in action by checking out our website here: [SparrowApp Live](https://sparrowapp.dev)
+See Sparrow in action by checking out our website here: [SparrowApp](https://sparrowapp.dev)
 
 ## 🏢 About Techdome Solutions Private Limited
 
@@ -26,7 +26,7 @@ At Techdome, we believe in the power of open-source and the importance of commun
 
 We specialize in delivering scalable solutions that modernize your operations and help you stay ahead in today's competitive digital landscape.
 
-Explore more of our projects and contributions on our [Website](https://techdome-io) or [GitHub](https://github.com/techdome-io) page.
+Explore more of our projects and contributions on our [Techdome Website](https://techdome-io) or [Techdome GitHub](https://github.com/techdome-io) page.
 
 ## 🎯 Getting Started
 
