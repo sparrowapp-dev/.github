@@ -18,9 +18,9 @@ In the complex world of APIs, simplicity is key. Sparrow is built to offer a cle
 
 See Sparrow in action by checking out our website here: [SparrowApp](https://sparrowapp.dev)
 
-## 🏢 About Techdome Solutions Private Limited
+## 🏢 About Techdome
 
-Sparrow is proudly developed and maintained by **Techdome Solutions Private Limited**, a technology company dedicated to creating innovative software solutions that empower developers and organizations worldwide.
+Sparrow is proudly developed and maintained by **Techdome**, a technology company dedicated to creating innovative software solutions that empower developers and organizations worldwide.
 
 At Techdome, we believe in the power of open-source and the importance of community-driven development. Our mission is to build tools that make complex tasks easier and more accessible to everyone.
 
