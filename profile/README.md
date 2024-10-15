@@ -1,6 +1,6 @@
 ## Sparrow REST API Tool
 
-![SparrowApp Logo](https://github.com/sparrowapp-dev/sparrow-app/blob/development/src/packages/%40deprecate/assets/logoSparrow.svg)![SparrowApp Logo2](https://github.com/sparrowapp-dev/sparrow-app/blob/development/src/packages/%40deprecate/assets/logotype.svg)
+![SparrowApp Logo](https://github.com/sparrowapp-dev/sparrow-app/blob/development/packages/@sparrow-library/src/assets/logoSparrow.svg)![SparrowApp Logo2](https://github.com/sparrowapp-dev/sparrow-app/blob/development/packages/@sparrow-library/src/assets/logotype.svg)
 
 **Sparrow** is your go-to, lightweight, open-source REST API management solution designed to simplify the process of building, managing abd testing APIs. Whether you're part of a large enterprise team or newbie developer, Sparrow provides the tools you need to ensure your APIs are running smoothly and efficiently.
 
