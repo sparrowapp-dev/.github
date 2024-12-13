@@ -55,7 +55,7 @@ Be part of the Sparrow community! Connect with other users and developers:
   Follow us for updates on:
 - **[Twitter](https://x.com/sparrow__app)**
 - **[LinkedIn](https://www.linkedin.com/company/sparrow-app)**
-- **[Instagram](https://www.instagram.com/getsparrowapitool/)**
+- **[Instagram](https://www.instagram.com/sparrow_api/)**
 
   Star us on GITHUB here: **[Star Us](https://github.com/sparrowapp-dev/sparrow-app)**
 
