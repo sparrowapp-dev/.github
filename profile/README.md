@@ -53,7 +53,7 @@ Be part of the Sparrow community! Connect with other users and developers:
 - **[Dev Hunt](https://devhunt.org/@Sparrow)** - Follow and Upvote us on Dev Hunt!
 
   Follow us for updates on:
-- **[Twitter](https://x.com/sparrow__app)**
+- **[Twitter](https://x.com/sparrow_API)**
 - **[LinkedIn](https://www.linkedin.com/company/sparrow-app)**
 - **[Instagram](https://www.instagram.com/sparrow_api/)**
 
